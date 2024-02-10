@@ -1,4 +1,4 @@
-/* Created by Tivotal */
+
 
 * {
     font-family: Arial, Helvetica, sans-serif;
@@ -12,7 +12,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgb(214, 214, 214);
+    background: rgb(133, 133, 133);
   }
   
   .wrapper .row {
@@ -24,13 +24,13 @@
   .wrapper .row button {
     width: 55px;
     height: 55px;
-    background: rgb(214, 214, 214);
+    background: rgb(36, 31, 31);
     outline: none;
     border: none;
     box-shadow: 5px 5px 10px #474343, -5px -5px 10px #fff;
     border-radius: 20%;
     font-size: 18px;
-    color: #000;
+    color: #ffffff;
     margin-left: 5px;
     cursor: pointer;
   }
